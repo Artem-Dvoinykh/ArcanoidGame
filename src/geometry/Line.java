@@ -124,7 +124,7 @@ public class Line {
      * Method to calculate the cross product between our vector and a vector made out start->p.
      *
      * @param p the p Point
-     * @return x, x > 0 if p to the left of the segment, x < 0 if to the right. x = 0 if they are on the same line
+     * @return x, x &gt; 0 if p is to the left of the segment, x &lt; 0 if to the right. x = 0 if they are on the same line.
      */
     public double crossProduct(Point p) {
         return vectorX * (p.getY() - start.getY()) - (p.getX() - start.getX()) * vectorY;
