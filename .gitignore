@@ -1,0 +1,29 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# VS Code
+.vscode/
+
+# Build output
+/bin/
+/build/
+/target/
+
+# Checkstyle jar
+checkstyle-8.44-all.jar
+
+# OS files
+.DS_Store
+Thumbs.db
