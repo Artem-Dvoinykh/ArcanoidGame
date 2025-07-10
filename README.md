@@ -1,4 +1,4 @@
-An Arcanoid game, written in Java according to OOP principles.
+An Arkanoid game, written in Java according to OOP principles.
 
 Rules:
 1) Game is over if you loose all balls.
