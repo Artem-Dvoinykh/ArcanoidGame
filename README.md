@@ -9,3 +9,7 @@ Rules:
 
 DESTROY THEM ALL!
 
+JavaDoc documentation: https://artem-dvoinykh.github.io/ArcanoidGame/index.html
+
+<img width="801" height="632" alt="Screenshot 2025-07-10 at 13 35 42" src="https://github.com/user-attachments/assets/90b52a56-ee1f-4220-af7e-12b936d7ca6f" />
+<img width="797" height="627" alt="Screenshot 2025-07-10 at 13 34 07" src="https://github.com/user-attachments/assets/70b3a8a4-d00b-4b60-83b4-3da3141cafeb" />
